@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello my name is Jordy Paul Aguilar Estrada I am 22 years old and I like sports and exercise
-  I am currently studying the university in the career of Computer Engineering i like action movies
+  I am currently studying the university in the career of Computer Engineering i like action movies;
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
